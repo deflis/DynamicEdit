@@ -1,0 +1,6 @@
+
+*.suo
+*.pdb
+*.vshost.exe*
+Debug/
+obj/
